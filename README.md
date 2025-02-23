@@ -1,3 +1,0 @@
-## Arno Granier
-
-hello there
